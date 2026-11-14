@@ -1,0 +1,13 @@
+.mcp.json
+.gsd/*.db*
+
+# GSD Pi local runtime, database, worktree, and backup paths
+
+.gsd/state.json
+.gsd/runtime/
+.gsd-worktrees/
+.gsd-backups/
+# Local tool installs and runtime state
+.pi/
+.bg-shell/
+.gsd/notifications.jsonl
