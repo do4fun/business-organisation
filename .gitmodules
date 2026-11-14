@@ -1,0 +1,3 @@
+[submodule "orchestrator-ceo"]
+	path = orchestrator-ceo
+	url = https://github.com/do4fun/orchestrator-ceo
